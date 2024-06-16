@@ -1,0 +1,9 @@
+# Block Special-Use Domain Names
+||home.arpa^
+||home^
+||invalid^
+||example^
+## RFC 6762
+||local^ 
+||test^
+||localhost^
